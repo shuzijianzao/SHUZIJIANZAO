@@ -20,5 +20,3 @@ Join by clicking here: https://discord.gg/7NT7gRT
 Discord is a valuable tool for you to communicate. 
 
 I'll see you in there!
-
-人类的活动，我认为主要有两类，1搬东西2传递信息。
