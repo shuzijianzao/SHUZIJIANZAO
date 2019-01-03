@@ -17,10 +17,11 @@
 
 - 这个版本是SHUZIJAINZAO的原型。它是一个立体的螺旋，配合数字来使用！！！
 
+## 🚦 Wrap Up
+- 我会持续更新这个工具，如果你有更好的建议来提高这个工具的可使用性，我会非常愿意接受，并且认真对待。
+
 ## 👬 Contribution
 
-- Join by clicking here: https://discord.gg/7NT7gRT
+- 加入我的社区请点击: https://discord.gg/7NT7gRT
 
-- Discord is a valuable tool for you to communicate. 
-
-- I'll see you in there!
+- 推特：SHUZIJIANZAO
