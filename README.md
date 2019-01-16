@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
-# SHUZIJIANZAO
 
 ## 🚀 Introduction
 - 人类活动，我认为目前主要分为两类，1搬东西2传递信息。这两类事情占据了人类一生中的大部分时间，因为我希望人可以花费大部分时间来提高意识，所以我创造了一个工具，我把它叫做SHUZIJIANZAO.对于我个人而言，它是我最求真爱和追求失败的一个总结。
