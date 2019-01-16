@@ -6,16 +6,12 @@
   <br>
 </h1>
 
-<h4 align="center">A Tool to Raise Awareness<a href="http://shuzijianzao.com" target="_blank">shuzijianzao</a>.</h4>
+<h4 align="center">A Tool to Raise Awareness<a href="http://shuzijianzao.com" target="_blank">SHUZIJIANZAO</a>.</h4>
 
 <p align="center">
   <a href="https://discord.gg/7NT7gRT">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Discord">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
   <a href="https://www.paypal.me/SZJZ">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
